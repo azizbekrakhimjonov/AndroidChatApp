@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chatting</string>
+    <string name="register">Register</string>
+    <string name="user_name">User name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="write_a_message">Write a message…</string>
+    <string name="assalomu_aleykum">Assalomu aleykum\t\t\t\t\t\t\t</string>
+    <string name="_16_41">16:41</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "882295515824",
+    "firebase_url": "https://chatting-522de-default-rtdb.firebaseio.com",
+    "project_id": "chatting-522de",
+    "storage_bucket": "chatting-522de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882295515824:android:66517671a759dce2d3a975",
+        "android_client_info": {
+          "package_name": "uz.nits.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882295515824-lf68ibh18npht0p7kvglf0b5i60s1ubb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.nits.chatting",
+            "certificate_hash": "ac37a304784afc304bb088b9d9f2cd6d26167cc1"
+          }
+        },
+        {
+          "client_id": "882295515824-h9egivffuc40tto2mc1dbv9ijd2qqc49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CsyEVRGF0EEes9Vhv1EStRQRg_xFPmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882295515824-h9egivffuc40tto2mc1dbv9ijd2qqc49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
